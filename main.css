@@ -27,15 +27,26 @@ nav {
   height: 63px;
   border-bottom: 1px solid rgb(76, 75, 77);
 }
+
+.log-person-img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  border: 3px solid rgb(199, 212, 222);
+  margin-top: 20px;
+  padding: 1px;
+  align-self: center;
+}
+
 header {
   grid-column: 2/-1;
-  background-color:#e8ecef;
+  background-color: #e8ecef;
   border-bottom: 1px solid rgb(177, 175, 179);
 }
 main {
   grid-column: 2/-1;
   height: 100vh;
-  background-color:#FBFBFD;
+  background-color: #fbfbfd;
   padding: 40px;
 }
 footer {
