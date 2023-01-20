@@ -58,9 +58,9 @@ footer {
 
 @font-face {
   font-family: sahelBold;
-  src: url(/webfonts/farsi-font/Sahel-Bold.ttf);
+  src: url(webfonts/farsi-font/Sahel-Bold.ttf);
 }
 @font-face {
   font-family: sahel;
-  src: url(/webfonts/farsi-font/Sahel.ttf);
+  src: url(webfonts/farsi-font/Sahel.ttf);
 }
